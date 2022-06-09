@@ -185,6 +185,22 @@
         "padding_bottom": 100
       }
     },
+    "1654752002549f94dc": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ahmad-ebadi-LgLzE5o93JU-unsplash_1080p.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "1654751312d64dc344": {
       "type": "multicolumn",
       "blocks": {
@@ -238,6 +254,22 @@
         "padding_bottom": 100
       }
     },
+    "16548129958f3cf96f": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_2000_x_250_px_5.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "16547597933ca8fa5a": {
       "type": "rich-text",
       "blocks": {
@@ -273,22 +305,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "1654752002549f94dc": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ahmad-ebadi-LgLzE5o93JU-unsplash_1080p.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "newsletter": {
@@ -386,9 +402,10 @@
     "rich-text",
     "165481219071d8412f",
     "multicolumn",
-    "1654751312d64dc344",
-    "16547597933ca8fa5a",
     "1654752002549f94dc",
+    "1654751312d64dc344",
+    "16548129958f3cf96f",
+    "16547597933ca8fa5a",
     "newsletter",
     "165481089754048f08"
   ]
