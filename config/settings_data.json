@@ -5,7 +5,7 @@
     "gradient_accent_1": "",
     "colors_accent_2": "#ffde9d",
     "gradient_accent_2": "linear-gradient(320deg, rgba(134, 16, 106, 1), rgba(94, 54, 83, 1) 100%)",
-    "colors_text": "#2E2A39",
+    "colors_text": "#000000",
     "colors_outline_button_labels": "rgba(0,0,0,0)",
     "colors_background_1": "#fdfbf7",
     "gradient_background_1": "linear-gradient(176deg, rgba(250, 250, 250, 1), rgba(241, 235, 226, 1) 100%)",
