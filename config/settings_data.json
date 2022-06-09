@@ -119,7 +119,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-2",
-          "logo_width": 70,
+          "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
