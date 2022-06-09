@@ -103,7 +103,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "10% off your first appointment",
+              "text": "Receive 10% off your first appointment",
               "color_scheme": "background-2",
               "link": "shopify:\/\/pages\/book"
             }
