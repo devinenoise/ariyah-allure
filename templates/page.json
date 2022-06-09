@@ -1,1 +1,195 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":36,"padding_bottom":36}},"16547529577a607bd6":{"type":"image-banner","blocks":{"1654752957687de8ae-0":{"type":"heading","disabled":true,"settings":{"heading":"Image banner","heading_size":"h1"}},"1654752957687de8ae-1":{"type":"text","disabled":true,"settings":{"text":"Give customers details about the banner image(s) or content on the template.","text_style":"body"}},"1654752957687de8ae-2":{"type":"buttons","disabled":true,"settings":{"button_label_1":"Button label","button_link_1":"","button_style_secondary_1":false,"button_label_2":"Button label","button_link_2":"","button_style_secondary_2":false}}},"block_order":["1654752957687de8ae-0","1654752957687de8ae-1","1654752957687de8ae-2"],"settings":{"image":"shopify:\/\/shop_images\/david-alvarado-DxlOd8X0mdE-unsplash_1080p.jpg","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"165475153256db3655":{"type":"rich-text","blocks":{"1654751532b2aa2815-0":{"type":"heading","settings":{"heading":"Vagaro Widget goes here","heading_size":"h1"}},"1654751532b2aa2815-1":{"type":"text","settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"}},"1654751532b2aa2815-2":{"type":"button","settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1654751532b2aa2815-0","1654751532b2aa2815-1","1654751532b2aa2815-2"],"settings":{"color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}},"1654752955443e15e7":{"type":"multicolumn","disabled":true,"blocks":{"1654752955a073e4b8-0":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"Book Now","link":""}},"1654752955a073e4b8-1":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"1654752955a073e4b8-2":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"351cd0f1-bfc5-4d53-af67-9a12debb589f":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"00a75b51-b6d2-4236-b152-29dd5185910e":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"51a05382-afc8-4bf7-9e3f-78960c1e1221":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"879de38b-2a72-4c95-b3d1-d5ae0c4de28a":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"e1fc7200-fd5a-4d1d-af0a-4a2cf3dfba78":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"bbacfd87-1083-4ac9-b8ac-7fc6aae4804c":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"d7eabb06-17b6-48d9-95c4-404f37941bb8":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["1654752955a073e4b8-0","1654752955a073e4b8-1","1654752955a073e4b8-2","351cd0f1-bfc5-4d53-af67-9a12debb589f","00a75b51-b6d2-4236-b152-29dd5185910e","51a05382-afc8-4bf7-9e3f-78960c1e1221","879de38b-2a72-4c95-b3d1-d5ae0c4de28a","e1fc7200-fd5a-4d1d-af0a-4a2cf3dfba78","bbacfd87-1083-4ac9-b8ac-7fc6aae4804c","d7eabb06-17b6-48d9-95c4-404f37941bb8"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["main","16547529577a607bd6","165475153256db3655","1654752955443e15e7"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16547529577a607bd6": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/david-alvarado-DxlOd8X0mdE-unsplash_1080p.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "165475153256db3655": {
+      "type": "rich-text",
+      "blocks": {
+        "1654751532b2aa2815-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vagaro Widget goes here",
+            "heading_size": "h1"
+          }
+        },
+        "1654751532b2aa2815-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1654751532b2aa2815-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1654751532b2aa2815-0",
+        "1654751532b2aa2815-1",
+        "1654751532b2aa2815-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1654752955443e15e7": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1654752955a073e4b8-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "Book Now",
+            "link": ""
+          }
+        },
+        "1654752955a073e4b8-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1654752955a073e4b8-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "351cd0f1-bfc5-4d53-af67-9a12debb589f": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "00a75b51-b6d2-4236-b152-29dd5185910e": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "51a05382-afc8-4bf7-9e3f-78960c1e1221": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "879de38b-2a72-4c95-b3d1-d5ae0c4de28a": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e1fc7200-fd5a-4d1d-af0a-4a2cf3dfba78": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bbacfd87-1083-4ac9-b8ac-7fc6aae4804c": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d7eabb06-17b6-48d9-95c4-404f37941bb8": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654752955a073e4b8-0",
+        "1654752955a073e4b8-1",
+        "1654752955a073e4b8-2",
+        "351cd0f1-bfc5-4d53-af67-9a12debb589f",
+        "00a75b51-b6d2-4236-b152-29dd5185910e",
+        "51a05382-afc8-4bf7-9e3f-78960c1e1221",
+        "879de38b-2a72-4c95-b3d1-d5ae0c4de28a",
+        "e1fc7200-fd5a-4d1d-af0a-4a2cf3dfba78",
+        "bbacfd87-1083-4ac9-b8ac-7fc6aae4804c",
+        "d7eabb06-17b6-48d9-95c4-404f37941bb8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16547529577a607bd6",
+    "165475153256db3655",
+    "1654752955443e15e7"
+  ]
+}
