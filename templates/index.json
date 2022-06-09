@@ -207,8 +207,8 @@
         "16547513124f1af752-0": {
           "type": "column",
           "settings": {
-            "title": "Amazing Experience",
-            "text": "<p>Testimonial text lorem ipsum<\/p>",
+            "title": "- 5 Stars -",
+            "text": "<p>Amazing Experience!<\/p><p><\/p><p>Jen, Tacoma<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -216,8 +216,8 @@
         "16547513124f1af752-2": {
           "type": "column",
           "settings": {
-            "title": "First time and will be back!",
-            "text": "<p>Testimonial text lorem ipsum<\/p>",
+            "title": "- 5 Stars -",
+            "text": "<p>First time and will be back!<\/p><p>Aimee, Sumner<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -225,8 +225,8 @@
         "16547513124f1af752-1": {
           "type": "column",
           "settings": {
-            "title": "Kylee was incredible...",
-            "text": "<p>Testimonial text lorem ipsum<\/p>",
+            "title": "- 5 Stars -",
+            "text": "<p>Kylee was incredible...<\/p><p>Guadalupe, Puyallup<\/p>",
             "link_label": "",
             "link": ""
           }
