@@ -36,7 +36,7 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "BOOK AN APPOINTMENT",
+            "button_label": "Book Now!",
             "button_link": "shopify:\/\/pages\/book"
           }
         }
