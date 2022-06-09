@@ -46,13 +46,23 @@
             "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
             "page": ""
           }
+        },
+        "7d59b008-fb11-43ec-8245-141f9ab79232": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Question 5",
+            "icon": "none",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "16547598532b020f88-3",
         "16547598532b020f88-0",
         "16547598532b020f88-1",
-        "16547598532b020f88-2"
+        "16547598532b020f88-2",
+        "7d59b008-fb11-43ec-8245-141f9ab79232"
       ],
       "settings": {
         "caption": "",
@@ -64,7 +74,7 @@
         "container_color_scheme": "background-2",
         "open_first_collapsible_row": true,
         "image": "shopify:\/\/shop_images\/camille-brodard-FTMPYMNw_zQ-unsplash.jpg",
-        "image_ratio": "adapt",
+        "image_ratio": "large",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
