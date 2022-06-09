@@ -14,17 +14,17 @@
         "16547598532b020f88-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Question 1",
-            "icon": "none",
-            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "heading": "What is Permanent Makeup?",
+            "icon": "question_mark",
+            "row_content": "<p>Permanent makeup is dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p>",
             "page": ""
           }
         },
         "16547598532b020f88-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Question 2",
-            "icon": "none",
+            "heading": "Does it hurt?",
+            "icon": "question_mark",
             "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
             "page": ""
           }
@@ -32,8 +32,8 @@
         "16547598532b020f88-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Question 3",
-            "icon": "none",
+            "heading": "What is Your Process?",
+            "icon": "question_mark",
             "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
             "page": ""
           }
@@ -41,8 +41,8 @@
         "16547598532b020f88-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Question 4",
-            "icon": "none",
+            "heading": "What do I do if I don't like it?",
+            "icon": "question_mark",
             "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
             "page": ""
           }
@@ -50,9 +50,9 @@
         "7d59b008-fb11-43ec-8245-141f9ab79232": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Question 5",
-            "icon": "none",
-            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "heading": "Can I come back if I love it?",
+            "icon": "question_mark",
+            "row_content": "<p>Permanent Makeup is dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "page": ""
           }
         }
