@@ -137,19 +137,10 @@
               "heading": "Ariyah Allure",
               "menu": "footer"
             }
-          },
-          "text-0": {
-            "type": "text",
-            "disabled": true,
-            "settings": {
-              "heading": "Our Store",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-            }
           }
         },
         "block_order": [
-          "linklist",
-          "text-0"
+          "linklist"
         ],
         "settings": {
           "color_scheme": "background-2",
