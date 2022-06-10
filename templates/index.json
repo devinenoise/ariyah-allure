@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "The Beauty Within",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "1654832502d05ff6f6-1": {
@@ -38,7 +38,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/AdobeStock_68067837_Preview.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
