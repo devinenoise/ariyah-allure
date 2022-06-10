@@ -271,6 +271,43 @@
         "padding_bottom": 100
       }
     },
+    "16547597933ca8fa5a": {
+      "type": "rich-text",
+      "blocks": {
+        "1654759793167366be-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How Permanent Makeup Works",
+            "heading_size": "h1"
+          }
+        },
+        "1654759793167366be-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1654759793167366be-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/pages\/our-process",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1654759793167366be-0",
+        "1654759793167366be-1",
+        "1654759793167366be-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16548129958f3cf96f": {
       "type": "image-banner",
       "settings": {
@@ -373,45 +410,9 @@
         "show_text_below": true
       }
     },
-    "16547597933ca8fa5a": {
-      "type": "rich-text",
-      "blocks": {
-        "1654759793167366be-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "How Permanent Makeup Works",
-            "heading_size": "h1"
-          }
-        },
-        "1654759793167366be-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "1654759793167366be-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "LEARN MORE",
-            "button_link": "shopify:\/\/pages\/our-process",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1654759793167366be-0",
-        "1654759793167366be-1",
-        "1654759793167366be-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1654752002549f94dc": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/ahmad-ebadi-LgLzE5o93JU-unsplash_1080p.jpg",
         "image_overlay_opacity": 0,
@@ -469,11 +470,11 @@
     "rich-text",
     "165481219071d8412f",
     "multicolumn",
+    "16547597933ca8fa5a",
     "16548129958f3cf96f",
     "1654751312d64dc344",
     "1654812989bc7ab241",
     "1654813315534571fb",
-    "16547597933ca8fa5a",
     "1654752002549f94dc",
     "newsletter"
   ]
