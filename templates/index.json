@@ -2,6 +2,7 @@
   "sections": {
     "1654832502899560c5": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1654832502d05ff6f6-0": {
           "type": "heading",
@@ -51,7 +52,6 @@
     },
     "1654833404b09c77bc": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1654833404ad58cebf-0": {
           "type": "heading",
@@ -90,7 +90,7 @@
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
