@@ -70,11 +70,11 @@
         "1654833404ad58cebf-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "BOOK NOW!",
-            "button_link_1": "shopify:\/\/pages\/book",
+            "button_label_1": "SERVICES",
+            "button_link_1": "shopify:\/\/pages\/services",
             "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
+            "button_label_2": "BOOK NOW!",
+            "button_link_2": "shopify:\/\/pages\/book",
             "button_style_secondary_2": false
           }
         }
