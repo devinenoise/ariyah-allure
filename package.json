@@ -1,0 +1,21 @@
+{
+  "name": "ariyah-allure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run login && shopify theme serve",
+    "login": "shopify login --store=ariyah-allure.myshopify.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinenoise/ariyah-allure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinenoise/ariyah-allure/issues"
+  },
+  "homepage": "https://github.com/devinenoise/ariyah-allure#readme"
+}
