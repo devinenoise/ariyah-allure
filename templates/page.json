@@ -24,8 +24,18 @@
         "show_text_below": true
       }
     },
+    "1655173228bc8c08d4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% render 'vagaro' %}",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "165475153256db3655": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1654751532b2aa2815-0": {
           "type": "heading",
@@ -189,6 +199,7 @@
   "order": [
     "main",
     "16547529577a607bd6",
+    "1655173228bc8c08d4",
     "165475153256db3655",
     "1654752955443e15e7"
   ]
