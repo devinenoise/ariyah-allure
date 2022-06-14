@@ -104,7 +104,7 @@
             "type": "announcement",
             "settings": {
               "text": "10% off your first appointment",
-              "color_scheme": "background-2",
+              "color_scheme": "accent-2",
               "link": "shopify:\/\/pages\/book"
             }
           }
