@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Chlara';
+  src: url('ChlaraTypeface-Regular.woff') format('woff');
+  font-style: normal;
+}
+
 .footer-block__heading {
   display: none;
 }
