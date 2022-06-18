@@ -13,7 +13,7 @@
     "gradient_background_2": "radial-gradient(rgba(255, 229, 229, 1), rgba(255, 224, 218, 1) 47%, rgba(234, 167, 160, 1) 100%)",
     "type_header_font": "americana_n4",
     "heading_scale": 140,
-    "type_body_font": "raleway_n5",
+    "type_body_font": "raleway_n3",
     "body_scale": 120,
     "page_width": 1600,
     "spacing_sections": 0,
