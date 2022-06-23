@@ -99,23 +99,6 @@
         "show_text_below": true
       }
     },
-    "1654812242e04850b1": {
-      "type": "image-banner",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_2000_x_250_px_4.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "image-with-text": {
       "type": "image-with-text",
       "disabled": true,
@@ -196,23 +179,6 @@
         "full_width": true,
         "padding_top": 88,
         "padding_bottom": 52
-      }
-    },
-    "165481219071d8412f": {
-      "type": "image-banner",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_2000_x_250_px.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
       }
     },
     "multicolumn": {
@@ -314,7 +280,7 @@
         "image": "shopify:\/\/shop_images\/Untitled_design.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -465,10 +431,8 @@
   "order": [
     "1654832502899560c5",
     "1654833404b09c77bc",
-    "1654812242e04850b1",
     "image-with-text",
     "rich-text",
-    "165481219071d8412f",
     "multicolumn",
     "16547597933ca8fa5a",
     "16548129958f3cf96f",
