@@ -138,10 +138,26 @@
               "heading": "Ariyah Allure",
               "menu": "footer"
             }
+          },
+          "492e53d7-b5b2-4d79-895c-6421216924b9": {
+            "type": "text",
+            "settings": {
+              "heading": "Contact Us",
+              "subtext": "<p>Want to Get in Touch with Kylee?  Book a Consultation here!<\/p>"
+            }
+          },
+          "58d24060-ae10-47e7-bd2d-cf02276adf08": {
+            "type": "text",
+            "settings": {
+              "heading": "Heading",
+              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            }
           }
         },
         "block_order": [
-          "linklist"
+          "linklist",
+          "492e53d7-b5b2-4d79-895c-6421216924b9",
+          "58d24060-ae10-47e7-bd2d-cf02276adf08"
         ],
         "settings": {
           "color_scheme": "accent-1",
