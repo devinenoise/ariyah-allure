@@ -181,6 +181,22 @@
         "padding_bottom": 52
       }
     },
+    "1656200056f77f7c6b": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AA_Marble_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -416,6 +432,7 @@
     "1654833404b09c77bc",
     "image-with-text",
     "rich-text",
+    "1656200056f77f7c6b",
     "multicolumn",
     "16547597933ca8fa5a",
     "16548129958f3cf96f",
