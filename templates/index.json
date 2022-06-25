@@ -277,7 +277,7 @@
     "16548129958f3cf96f": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design.png",
+        "image": "shopify:\/\/shop_images\/AA_Marble_2_8936008d-505a-4631-9ec6-109ca5fb7831.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
@@ -343,39 +343,6 @@
         "padding_bottom": 100
       }
     },
-    "1654812989bc7ab241": {
-      "type": "image-banner",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_2000_x_250_px_2.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "1654813315534571fb": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/iStock-1180918197_1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1654752002549f94dc": {
       "type": "image-banner",
       "disabled": true,
@@ -426,6 +393,22 @@
         "padding_top": 52,
         "padding_bottom": 52
       }
+    },
+    "16561982253b28c7b5": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AA_Marble_3_180c28fa-6bcb-4e43-8ecf-26edc025ca0e.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -437,9 +420,8 @@
     "16547597933ca8fa5a",
     "16548129958f3cf96f",
     "1654751312d64dc344",
-    "1654812989bc7ab241",
-    "1654813315534571fb",
     "1654752002549f94dc",
-    "newsletter"
+    "newsletter",
+    "16561982253b28c7b5"
   ]
 }
