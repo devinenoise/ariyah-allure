@@ -143,14 +143,14 @@
             "type": "text",
             "settings": {
               "heading": "Contact Us",
-              "subtext": "<p>Want to Get in Touch with Kylee?  Book a Consultation here!<\/p>"
+              "subtext": "<p>Want to Get in Touch with Kylee?  Book a Consultation here!<\/p><p><\/p><p>*ADD Link to Bookings?  Vagaro<\/p>"
             }
           },
           "58d24060-ae10-47e7-bd2d-cf02276adf08": {
             "type": "text",
             "settings": {
               "heading": "Heading",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "subtext": "<p>Phone:  253.334.3344<\/p><p>Address:  XYZ Lakewood Dr, Lakewood, WA  98499<\/p>"
             }
           }
         },
