@@ -1,5 +1,33 @@
 {
   "sections": {
+    "165647655126e806b6": {
+      "type": "rich-text",
+      "blocks": {
+        "165647655166e5951b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Me - *Kylee!*",
+            "heading_size": "h1"
+          }
+        },
+        "165647655166e5951b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hello!<\/p><p>Welcome to Ariyah Allure, we're so glad you found us!  <\/p><p>About me - I received my Aesthetician License about eleven years ago & didn't hold it closely to my heart as I should have. <\/p><p>Even though my love for beauty took third place, because I thought college was the way to go, and so again I put my dream even below that.<\/p><p>This time around I know myself, I know my sacrifices, I know I have the resources, and most importantly I want to \"fall forward\" in this endeavor. <\/p><p>This is my book and I am writing this with love, support, sweat, and everything in between. And with your help I'll never stop writing it!  So happy you came for the cameo - please come back by at any time.<\/p><p>I recently listened to a famous Mr. Denzel Washington graduation speech - you probably know it - in regards to embrace and if you're gonna fall, then fall forward so at least you know what you're falling on - eyes forward with full acceptance. <\/p><p>I am new to the family of Permanent Makeup Artist, but this is my time. While in school, you listen to lectures, you read, you do the homework, you study for the exam. Well, I do this everyday, because above it all I want to earn your trust. <\/p><p>I have a full grasp of the occupation I am dedicated to, I understand better than anyone you'll meet the permanency and therefore I want to provide that everlasting beauty. <\/p><p>I believe in my name and the mark I leave, so anytime you look in the mirror, I want so badly to make you smile, and be the voice that says with you \"I look good. I feel good. I am going to slay the day.\" <\/p><p>I have so much to offer, but I cannot do this without YOU. I want to stand out because I care! There is no doubt a difference and level of caring. I believe in timing, and this is my time! So please join me on my journey! I want to thank you ahead for your trust and support!<\/p><p>Much love!<\/p><p>- Kylee<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165647655166e5951b-0",
+        "165647655166e5951b-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "form": {
       "type": "contact-form",
       "settings": {
@@ -20,6 +48,7 @@
     }
   },
   "order": [
+    "165647655126e806b6",
     "form",
     "main"
   ]
