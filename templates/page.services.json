@@ -141,7 +141,7 @@
           "type": "heading",
           "settings": {
             "heading": "Lip Blush",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "1656691403bcc3c602-1": {
@@ -154,8 +154,8 @@
         "1656691403bcc3c602-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "BOOK NOW",
+            "button_link": "shopify:\/\/pages\/book"
           }
         }
       },
