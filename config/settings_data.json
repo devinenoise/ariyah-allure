@@ -150,7 +150,7 @@
             "type": "text",
             "settings": {
               "heading": "Heading",
-              "subtext": "<p>Phone:  253.334.3344<\/p><p>Address:  10828 Gravelly Lake Dr SW Suite 202, Tacoma, WA 98499<\/p>"
+              "subtext": "<p>Phone: 253.334.3344<\/p><p>Address: 10828 Gravelly Lake Dr SW Suite 202, Tacoma, WA 98499<\/p>"
             }
           }
         },
