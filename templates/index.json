@@ -395,7 +395,8 @@
         "16547513124f1af752-0": {
           "type": "column",
           "settings": {
-            "title": "- 5 Stars -",
+            "image": "shopify:\/\/shop_images\/image.png",
+            "title": "",
             "text": "<p>\"I absolutely love my brows!  Natural beauty has always been me - meaning I don't wear anything on my face. That said, I was not sure what to expect, but after the service I was very pleased with the outcome!  Honestly it has given me such a more refreshed look.\" <\/p><p><em>~ Quincy<\/em><\/p>",
             "link_label": "",
             "link": ""
@@ -404,7 +405,8 @@
         "16547513124f1af752-2": {
           "type": "column",
           "settings": {
-            "title": "- 5 Stars -",
+            "image": "shopify:\/\/shop_images\/image.png",
+            "title": "",
             "text": "<p>\"I felt very comfortable for my first ever brow appointment. When I came back for my touch up, I was happy to see all the improvements she'd made and how AWESOME my brows look! Kylee is very kind, organized and clean.\" <\/p><p><em>~ Keyshawna<\/em><\/p>",
             "link_label": "",
             "link": ""
@@ -413,7 +415,8 @@
         "16547513124f1af752-1": {
           "type": "column",
           "settings": {
-            "title": "- 5 Stars -",
+            "image": "shopify:\/\/shop_images\/image.png",
+            "title": "",
             "text": "<p>\"I’ve had two sessions of micro blading with Kylee and I’m so happy with the results.  The effect is very subtle and natural, yet still draws attention to my eyes. This is especially great because I wear glasses most of the time.  Kylee was wonderful to work with, she is very detail focused, with a calm presence that put me at ease. She has a gentle touch, so there was very little discomfort with the process and healing was quick.  I wholeheartedly recommend Kylee to anyone considering making a change to their eyebrow look and\/or routine.\"<\/p><p><em>~Beth<\/em><\/p>",
             "link_label": "",
             "link": ""
@@ -429,7 +432,7 @@
         "title": "Testimonials",
         "heading_size": "h1",
         "image_width": "third",
-        "image_ratio": "portrait",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
