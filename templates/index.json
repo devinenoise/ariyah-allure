@@ -301,6 +301,78 @@
         "padding_bottom": 52
       }
     },
+    "165669215826617591": {
+      "type": "featured-product",
+      "blocks": {
+        "16566921589b49bd90-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16566921589b49bd90-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "16566921589b49bd90-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16566921589b49bd90-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16566921589b49bd90-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16566921589b49bd90-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16566921589b49bd90-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16566921589b49bd90-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16566921589b49bd90-0",
+        "16566921589b49bd90-1",
+        "16566921589b49bd90-2",
+        "16566921589b49bd90-3",
+        "16566921589b49bd90-4",
+        "16566921589b49bd90-5",
+        "16566921589b49bd90-6",
+        "16566921589b49bd90-7"
+      ],
+      "settings": {
+        "product": "gift-card",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 44,
+        "padding_bottom": 44
+      }
+    },
     "16548129958f3cf96f": {
       "type": "image-banner",
       "settings": {
@@ -447,6 +519,7 @@
     "1656200056f77f7c6b",
     "multicolumn",
     "16547597933ca8fa5a",
+    "165669215826617591",
     "16548129958f3cf96f",
     "1654751312d64dc344",
     "1654752002549f94dc",
