@@ -421,19 +421,30 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "d0476cd1-1fd4-4172-b0ec-e4e4ec0bfa3d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image.png",
+            "title": "",
+            "text": "<p>\"I had my brows microbladed for the first time in March. Kylee was very professional, made me feel comfortable by making sure I wasn’t in pain, used a good amount of numbing cream, and my brows look amazing!! I would definitely recommend her to anyone looking for a brow artist.\"<\/p><p><em>~ Damea<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "16547513124f1af752-0",
         "16547513124f1af752-2",
-        "16547513124f1af752-1"
+        "16547513124f1af752-1",
+        "d0476cd1-1fd4-4172-b0ec-e4e4ec0bfa3d"
       ],
       "settings": {
         "title": "Testimonials",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
