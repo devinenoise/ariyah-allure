@@ -134,6 +134,49 @@
         "padding_bottom": 36
       }
     },
+    "1656691403a8f2fb23": {
+      "type": "image-with-text",
+      "blocks": {
+        "1656691403bcc3c602-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lip Blush",
+            "heading_size": "h1"
+          }
+        },
+        "1656691403bcc3c602-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1656691403bcc3c602-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1656691403bcc3c602-0",
+        "1656691403bcc3c602-1",
+        "1656691403bcc3c602-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1654750998af95ab28": {
       "type": "image-with-text",
       "blocks": {
@@ -177,49 +220,6 @@
         "padding_top": 36,
         "padding_bottom": 100
       }
-    },
-    "1656691403a8f2fb23": {
-      "type": "image-with-text",
-      "blocks": {
-        "1656691403bcc3c602-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "1656691403bcc3c602-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1656691403bcc3c602-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1656691403bcc3c602-0",
-        "1656691403bcc3c602-1",
-        "1656691403bcc3c602-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -227,7 +227,7 @@
     "165475239298ba9fb7",
     "1654750983171f9a07",
     "16547509907d2d6edf",
-    "1654750998af95ab28",
-    "1656691403a8f2fb23"
+    "1656691403a8f2fb23",
+    "1654750998af95ab28"
   ]
 }
