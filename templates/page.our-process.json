@@ -56,21 +56,21 @@
             "page": ""
           }
         },
-        "b40d116d-cd59-4105-bbb6-b1d7ccf4e021": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Post Care",
-            "icon": "question_mark",
-            "row_content": "<p>lorem ipsume<\/p>",
-            "page": ""
-          }
-        },
         "b8154d24-0d73-4580-a0f9-bda807052af3": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Pre Care",
             "icon": "question_mark",
             "row_content": "<p>lorem ipsum<\/p>",
+            "page": ""
+          }
+        },
+        "b40d116d-cd59-4105-bbb6-b1d7ccf4e021": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Post Care",
+            "icon": "question_mark",
+            "row_content": "<p>lorem ipsume<\/p>",
             "page": ""
           }
         }
@@ -81,8 +81,8 @@
         "16547598532b020f88-1",
         "16547598532b020f88-2",
         "7d59b008-fb11-43ec-8245-141f9ab79232",
-        "b40d116d-cd59-4105-bbb6-b1d7ccf4e021",
-        "b8154d24-0d73-4580-a0f9-bda807052af3"
+        "b8154d24-0d73-4580-a0f9-bda807052af3",
+        "b40d116d-cd59-4105-bbb6-b1d7ccf4e021"
       ],
       "settings": {
         "caption": "",
@@ -133,7 +133,7 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     }
