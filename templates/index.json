@@ -1,55 +1,5 @@
 {
   "sections": {
-    "1654832502899560c5": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1654832502d05ff6f6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Beauty Within",
-            "heading_size": "h1"
-          }
-        },
-        "1654832502d05ff6f6-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "",
-            "text_style": "subtitle"
-          }
-        },
-        "1654832502d05ff6f6-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "BOOK NOW!",
-            "button_link_1": "shopify:\/\/pages\/book",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1654832502d05ff6f6-0",
-        "1654832502d05ff6f6-1",
-        "1654832502d05ff6f6-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/AdobeStock_68067837_Preview.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1654833404b09c77bc": {
       "type": "image-banner",
       "blocks": {
@@ -97,51 +47,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "image-with-text": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Beauty Within",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Permanent Makeup<\/p><p>Powder Eyebrow<\/p><p>Refined Eyeliner<\/p><p>Blushed Lip Treatments<\/p><p>Refined Lipliner<\/p><p>**NEW** Nano-strokes <\/p><p>Tacoma's hottest Sleek Chic Salon<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Book Now!",
-            "button_link": "shopify:\/\/pages\/book"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ernesto-norman-R5CX8XDQLV0-unsplash_1080p.jpg",
-        "height": "large",
-        "desktop_image_width": "large",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "rich-text": {
@@ -457,23 +362,6 @@
         "padding_bottom": 100
       }
     },
-    "1654752002549f94dc": {
-      "type": "image-banner",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ahmad-ebadi-LgLzE5o93JU-unsplash_1080p.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "newsletter": {
       "type": "newsletter",
       "disabled": true,
@@ -527,9 +415,7 @@
     }
   },
   "order": [
-    "1654832502899560c5",
     "1654833404b09c77bc",
-    "image-with-text",
     "rich-text",
     "1656200056f77f7c6b",
     "multicolumn",
@@ -537,7 +423,6 @@
     "165669215826617591",
     "16548129958f3cf96f",
     "1654751312d64dc344",
-    "1654752002549f94dc",
     "newsletter",
     "16561982253b28c7b5"
   ]
