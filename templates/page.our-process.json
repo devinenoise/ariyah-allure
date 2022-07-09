@@ -58,6 +58,7 @@
         },
         "b8154d24-0d73-4580-a0f9-bda807052af3": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Pre Care",
             "icon": "question_mark",
@@ -67,6 +68,7 @@
         },
         "b40d116d-cd59-4105-bbb6-b1d7ccf4e021": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Post Care",
             "icon": "question_mark",
