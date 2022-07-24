@@ -116,11 +116,49 @@
         "padding_top": 52,
         "padding_bottom": 52
       }
+    },
+    "16586242233d6cba33": {
+      "type": "rich-text",
+      "blocks": {
+        "16586242229659c2d3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pre-Care",
+            "heading_size": "h1"
+          }
+        },
+        "16586242229659c2d3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No two skin types and tones are the same!  Everyone’s reaction will be ever so slightly different. <br\/>Contact me for a consultation so I can address any question and alleviate any single concern!  <\/p><p>That said, most of Pre-Care comes down to awareness; what is the procedure, how am I<br\/>affected and when do I get to start enjoying my amazing self-investment?<\/p><p>First, please understand that for the first 2-3 days following any application of permanent makeup, you will have swelling, redness and tenderness in the area of your newly applied makeup.  <\/p><p>Any treated area should take around 7 days to fully heal, although for some individuals it varies.  Upon leaving, the color may look too dark and in 3 to 5 days it may look too light! <br\/>Right around 7 to 10 days, however, the treatment color comes in perfectly as planned!  At your follow up or touch up visit, which we will schedule, any irregularities are corrected and filled.<\/p><p>I work with you up front to establish a clear understanding of what you’ll experience and how to get the absolute best from working with me! <br\/><\/p><p>That said, if you’re unsatisfied we will work together to get you to a<br\/>place where you LOVE the new you, that is my commitment to you and our community.<\/p>"
+          }
+        },
+        "16586242229659c2d3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16586242229659c2d3-0",
+        "16586242229659c2d3-1",
+        "16586242229659c2d3-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "1654759853318696cf",
-    "1654833362fbda830c"
+    "1654833362fbda830c",
+    "16586242233d6cba33"
   ]
 }
