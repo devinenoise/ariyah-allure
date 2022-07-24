@@ -16,7 +16,7 @@
           "settings": {
             "heading": "What is Permanent Makeup?",
             "icon": "question_mark",
-            "row_content": "<p>Permanent makeup is the self-beautifying, confidence boost and time-saver that we all always been looking for.  Using a variety of safe and sustainable techniques, the pigmentation under the superficial layer of skin is toned to highlight your latent and natural beauty.  At Ariyah Allure, we focus on the pre-care and post-care so you know what to expect, how to treat yourself and when to come back to see me again!<\/p>",
+            "row_content": "<p>Permanent makeup is the self-beautifying, confidence boosting time-saver that we all have been looking for.  Using a variety of safe and sustainable techniques, the pigmentation under the superficial layer of skin is toned to highlight your latent and natural beauty.  At Ariyah Allure, we focus on the pre-care and post-care so you know what to expect, how to treat yourself and when to come back to see me again!<\/p>",
             "page": ""
           }
         },
@@ -55,26 +55,6 @@
             "row_content": "<p>Permanent Makeup is a life-changer, time-saver, confidence booster and a BIG reveal of the beauty within all along - you will ABSOLUTELY be scheduled for your return visit!  Contact us back at any time and follow us on IG & FB!<\/p>",
             "page": ""
           }
-        },
-        "b8154d24-0d73-4580-a0f9-bda807052af3": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "Pre Care",
-            "icon": "question_mark",
-            "row_content": "<p>lorem ipsum<\/p>",
-            "page": ""
-          }
-        },
-        "b40d116d-cd59-4105-bbb6-b1d7ccf4e021": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "Post Care",
-            "icon": "question_mark",
-            "row_content": "<p>lorem ipsume<\/p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -82,9 +62,7 @@
         "16547598532b020f88-0",
         "16547598532b020f88-1",
         "16547598532b020f88-2",
-        "7d59b008-fb11-43ec-8245-141f9ab79232",
-        "b8154d24-0d73-4580-a0f9-bda807052af3",
-        "b40d116d-cd59-4105-bbb6-b1d7ccf4e021"
+        "7d59b008-fb11-43ec-8245-141f9ab79232"
       ],
       "settings": {
         "caption": "",
@@ -138,11 +116,49 @@
         "padding_top": 52,
         "padding_bottom": 52
       }
+    },
+    "1658623763d03915f1": {
+      "type": "rich-text",
+      "blocks": {
+        "1658623763054541b2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1658623763054541b2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1658623763054541b2-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658623763054541b2-0",
+        "1658623763054541b2-1",
+        "1658623763054541b2-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "1654759853318696cf",
-    "1654833362fbda830c"
+    "1654833362fbda830c",
+    "1658623763d03915f1"
   ]
 }
